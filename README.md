@@ -4,5 +4,5 @@
 
 ## Everything on page can be easly customized (My code explains each aspect of it) You can use up/down arrows to change speed or space for fullscreen.
 
-[img1](https://i.imgur.com/gEypZEx.png)
+![img1](https://i.imgur.com/gEypZEx.png)
 ![img2](https://i.imgur.com/KajeMP5.png)
